@@ -9,4 +9,4 @@ def principal(x = 5, y = 3, z = 7):
 
 if __name__ == "__main__":
 
-principal()
+    principal()

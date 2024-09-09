@@ -5,8 +5,8 @@ def multiplicacion(multiplicando,multiplicador):
 
 if __name__=="__main__":
 
-multiplicando = float(input("multiplicando:"))
-multiplicador = float(input("multiplicador:"))
+    multiplicando = float(input("multiplicando:"))
+    multiplicador = float(input("multiplicador:"))
 
-resultado = multiplicacion(multiplicando, multiplicador)
-print(f"{multiplicando}*{multiplicador}={resultado}")
+    resultado = multiplicacion(multiplicando, multiplicador)
+    print(f"{multiplicando}*{multiplicador}={resultado}")
